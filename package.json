@@ -1,0 +1,10 @@
+{
+  "name": "system-health",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "seed": "node scripts/seed.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

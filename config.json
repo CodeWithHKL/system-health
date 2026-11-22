@@ -1,0 +1,39 @@
+{
+  "title": "HKL Systems Status",
+  "services": [
+    {
+      "id": "portfolio",
+      "name": "HKLX Portfolio",
+      "url": "https://hklx.vercel.app"
+    },
+    {
+      "id": "guardiola",
+      "name": "Guardiola Man City Analytics",
+      "url": "https://guardiola-mancity-analytics.vercel.app",
+      "challengeOk": true
+    },
+    {
+      "id": "uniten",
+      "name": "UNITEN AI Chatbot",
+      "url": "https://uniten-chatbot-gemini.vercel.app",
+      "challengeOk": true
+    },
+    {
+      "id": "blog",
+      "name": "Hklx Blog",
+      "url": "https://hklx-blog.vercel.app",
+      "challengeOk": true
+    },
+    {
+      "id": "movies",
+      "name": "HKL Movie Archive",
+      "url": "https://hkl-movie-archive.vercel.app",
+      "challengeOk": true
+    },
+    {
+      "id": "passgen",
+      "name": "Password Generator API",
+      "url": "https://hklx-pass-genapi.vercel.app"
+    }
+  ]
+}
